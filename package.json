@@ -1,0 +1,32 @@
+{
+    "name": "vuepress-theme-bulma",
+    "version": "1.0.1",
+    "description": "A Bulma theme for VuePress.",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/HiYue/vuepress-theme-bulma.git"
+    },
+    "keywords": [
+      "vuepress",
+      "vuepress-theme",
+      "documentation",
+      "site-generator"
+    ],
+    "author": "Justin Wang <hi@yue.dev>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/HiYue/vuepress-theme-bulma.git/issues"
+    },
+    "homepage": "https://github.com/HiYue/vuepress-theme-bulma.git#readme",
+    "dependencies": {
+      "@vuepress/plugin-active-header-links": "^1.0.2",
+      "@vuepress/plugin-nprogress": "^1.0.2",
+      "@vuepress/plugin-search": "^1.0.2",
+      "docsearch.js": "^2.5.2",
+      "stylus": "^0.54.5",
+      "stylus-loader": "^3.0.2",
+      "vuepress-plugin-container": "^2.0.0"
+    }
+  }
+  
